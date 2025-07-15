@@ -4,7 +4,7 @@ const Index = () => {
   return <div className="min-h-screen bg-gradient-to-br from-black via-slate-900 to-black text-white flex flex-col items-center justify-center">
       {/* Logo */}
       <div className="mb-8 ">
-        <img src="/lovable-uploads/82164017-d9df-493c-85c6-9c8bada149d8.png" alt="Next Gain Logo" className="w-24 h-24 border-black rounded-full" />
+        <img src="/lovable-uploads/logo.png" alt="Next Gain Logo" className="w-24 h-24 border-black rounded-full" />
       </div>
 
       {/* Botão de Boas-vindas */}
